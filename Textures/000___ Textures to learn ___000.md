@@ -1,0 +1,58 @@
+Textures we should try drawing as pixel art:
+(add to this list whenever you are about to draw a new material)
+
+- Bark (various types, e.g., oak, pine, redwood)
+- Mountain stone
+- Cobblestone
+- Gravel
+- Sand
+- Grass (wild)
+- Grass (lawn)
+- Cactus
+- Watermelon
+- Wool
+- Stained glass
+- Birch
+- Rusty metal 
+- Clean, shiny aluminum
+- Old porcelain
+- Marble
+- Ceramic
+- Dirt
+- Crumbly paper
+- Corkboard
+- Towel
+- Yarn
+- Ice (smooth, cracked, frosty)
+- Clouds (fluffy, wispy, stormy)
+- Concrete (new, weathered, cracked)
+- Brick (clean, aged, mossy)
+- Mud (wet, dry, cracked)
+- Leaves (single and in clusters)
+- Sandstone
+
+- Basalt (columnar, rough)
+- Lava (molten, cooling crust)
+- Snow (powdery, packed, melting)
+- Fur (short, long, patchy)
+- Glass (broken, frosted, dirty)
+- Leather (smooth, cracked, stitched)
+- Canvas (plain, painted)
+- Plastic (glossy, matte, textured)
+- Rough-hewn wood
+- Polished wood (varnished)
+- Stucco
+- Velvet
+- Rocks (jagged, smooth, moss-covered)
+- Tiles (ceramic, mosaic, cracked)
+- Metal (brushed, tarnished, corroded)
+- Wicker/Basket weave
+- Rubble (small debris, large chunks)
+- Ash/Charcoal
+- Skin (human, reptilian, amphibian)
+- Bones (smooth, weathered)
+- Feathers (downy, sleek)
+- Crystal (faceted, cloudy)
+- Rubber (soft, hardened)
+- Pavement/Asphalt (new, aged, with cracks)
+- Chains (rusty, shiny)
