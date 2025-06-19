@@ -1,0 +1,3 @@
+-Bassicly choose a more limited set of colors for the actual rays, then the rest of the nuances of each color can come from the background beneath them and the kind of light they will emit. 
+-Draw the rays manually from the outside in, one color at a time. Dont try to "block it out"
+-The outline is currently too smooth, it needs to seem like its made of many individual rays, some of which are way longer than others.
